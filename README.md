@@ -1,2 +1,2 @@
-# docker
+# dockerfiles
 Dockerfiles for basic images
